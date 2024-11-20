@@ -1,4 +1,4 @@
-# Proyecto-sobre-la-carretera-Tecom-n-Cerro-de-Ortega
+# Proyecto-sobre-la-carretera-Tecomán-Cerro-de-Ortega
 El conteo de baches totales sobre esta carretera y el como esto afecta a toda la comunidad
 # Título del Proyecto
 **Autores:** Gómez Padilla Artemio Gabriel y Magaña Anguiano Rocío Maribel
