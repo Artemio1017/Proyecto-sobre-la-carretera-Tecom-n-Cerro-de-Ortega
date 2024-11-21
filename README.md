@@ -16,6 +16,7 @@ Explicación detallada del enfoque del proyecto, herramientas utilizadas y metod
 
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
+![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
 
 ## Resultados
 **CÓDIGOS USADOS**
@@ -44,9 +45,9 @@ print(f"Límite de tensión: {limite_tension:.2e} Pa")
 
 # SEGUNDO CÓDIGO
 #Parámetros iniciales
-costo_reparacion_por_bache = 1500  #Costo de reparar un bache (en dólares)
+costo_reparacion_por_bache = 1164  #Costo de reparar un bache (en dólares)
 cantidad_baches = 100             #Cantidad total de baches en la carretera
-presupuesto_total = 200000        #Presupuesto disponible (en dólares)
+presupuesto_total = 20000        #Presupuesto disponible (en dólares)
 #Calcular el costo total de reparación
 costo_total_reparacion = cantidad_baches * costo_reparacion_por_bache
 #Comparar con el presupuesto disponible
