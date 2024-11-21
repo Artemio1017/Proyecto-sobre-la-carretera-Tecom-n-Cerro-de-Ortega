@@ -15,7 +15,7 @@ En resumen, este proyecto de rehabilitación representa una oportunidad clave pa
 Explicación detallada del enfoque del proyecto, herramientas utilizadas y metodología.
 
 ## Manejo de Datos
-
+![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 
 ## Resultados
 **CÓDIGOS USADOS**
