@@ -15,7 +15,7 @@ En resumen, este proyecto de rehabilitación representa una oportunidad clave pa
 Explicación detallada del enfoque del proyecto, herramientas utilizadas y metodología.
 
 ## Manejo de Datos
-Descripción del conjunto de datos procesados y su fuente, si aplica.
+
 
 ## Resultados
 **CÓDIGOS USADOS**
