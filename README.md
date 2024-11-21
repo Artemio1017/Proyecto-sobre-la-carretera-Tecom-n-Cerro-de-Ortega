@@ -23,12 +23,12 @@ Descripción del conjunto de datos procesados y su fuente, si aplica.
 #Código para calcular la fuerza en la carretera y prevenir baches
 import numpy as np
 #Parámetros del material de la carretera
-modulo_elasticidad = 3e9  # en Pascales (ejemplo: asfalto)
-espesor_carretera = 0.15  # en metros
-limite_tension = 2.5e6    # tensión máxima permitida en Pascales (ejemplo)
+modulo_elasticidad = 3e9  #en Pascales (ejemplo: asfalto)
+espesor_carretera = 0.15  #en metros
+limite_tension = 2.5e6    #tensión máxima permitida en Pascales (ejemplo)
 #Parámetros de la carga
-carga_aplicada = 10000    # en Newtons (peso del vehículo, por ejemplo)
-area_contacto = 0.01      # en metros cuadrados (área de contacto de la rueda)
+carga_aplicada = 10000    #en Newtons (peso del vehículo, por ejemplo)
+area_contacto = 0.01      #en metros cuadrados (área de contacto de la rueda)
 #Calcular presión en el área de contacto
 presion_contacto = carga_aplicada / area_contacto  # en Pascales
 #Calcular tensión en la carretera (simulación simplificada usando esfuerzo máximo)
@@ -44,9 +44,9 @@ print(f"Límite de tensión: {limite_tension:.2e} Pa")
 
 # SEGUNDO CÓDIGO
 #Parámetros iniciales
-costo_reparacion_por_bache = 1500  # Costo de reparar un bache (en dólares)
-cantidad_baches = 100             # Cantidad total de baches en la carretera
-presupuesto_total = 200000        # Presupuesto disponible (en dólares)
+costo_reparacion_por_bache = 1500  #Costo de reparar un bache (en dólares)
+cantidad_baches = 100             #Cantidad total de baches en la carretera
+presupuesto_total = 200000        #Presupuesto disponible (en dólares)
 #Calcular el costo total de reparación
 costo_total_reparacion = cantidad_baches * costo_reparacion_por_bache
 #Comparar con el presupuesto disponible
