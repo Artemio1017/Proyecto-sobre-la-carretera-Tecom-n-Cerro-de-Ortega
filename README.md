@@ -12,7 +12,28 @@ En resumen, este proyecto de rehabilitación representa una oportunidad clave pa
 
 
 ## Desarrollo
-Explicación detallada del enfoque del proyecto, herramientas utilizadas y metodología.
+El proyecto tiene como objetivo principal la renovación integral de la carretera Cerro de Ortega-Tecomán, que actualmente presenta un deterioro crítico que afecta tanto la seguridad vial como el desarrollo socioeconómico de la región. Este tramo es fundamental para el transporte diario de personas y mercancías, conectando centros productivos agrícolas y comerciales con mercados regionales. La propuesta busca abordar problemas clave como baches, drenaje deficiente y la falta de señalización adecuada, garantizando un impacto positivo en la movilidad, la calidad de vida de la comunidad y el desarrollo económico sostenible. El enfoque estratégico incluye tanto acciones correctivas inmediatas como planes a largo plazo, integrando un análisis técnico profundo, la participación activa de la comunidad y la aplicación de soluciones innovadoras.
+Herramientas Utilizadas
+Sistemas de Información Geográfica: Se emplearán para mapear baches, monitorear avances y optimizar la planificación de reparaciones.
+Encuestas y talleres participativos: Recopilar opiniones y necesidades de los usuarios y comunidades locales.
+Metodología de estimación de costos: Se utilizarán índices de precios actualizados para materiales y mano de obra, contemplando factores climáticos y contingencias.
+Indicadores Clave de Desempeño: Se definirán medidas específicas para medir el progreso, eficiencia y calidad del proyecto.
+Metodología
+1. Diagnóstico:
+Se realizará una evaluación del estado actual de la carretera, identificando baches, fallos en el drenaje y problemas de señalización.
+2. Planificación y Cálculo de Costos:
+Inventario de baches: Clasificación detallada de baches por tamaño, profundidad y tipo de pavimento.
+Estimación de costos unitarios: Basada en materiales, mano de obra y equipo necesario.
+Contingencias: Adición de un porcentaje para cubrir imprevistos.
+La fórmula general utilizada será:
+Costo total = Σ (Número de baches * Costo unitario por bache) + Costos indirectos + Contingencia.
+3. Ejecución:
+Se implementarán reparaciones priorizando materiales sostenibles y técnicas de bajo impacto ambiental, asegurando una mayor durabilidad y menor afectación ecológica.
+4. Participación Ciudadana:
+Se organizarán talleres y encuestas para incorporar las opiniones y expectativas de la población local, fortaleciendo la transparencia y aceptación del proyecto.
+5. Monitoreo y Evaluación:
+El avance será medido con indicadores clave como la reducción de accidentes, calidad de las reparaciones y satisfacción de los usuarios. Se usará el SIG para actualizar y visualizar el progreso.
+
 
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
