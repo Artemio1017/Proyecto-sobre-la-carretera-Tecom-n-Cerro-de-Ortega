@@ -36,6 +36,7 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 
 
 ## Manejo de Datos
+![carre_tecoman_co](https://github.com/user-attachments/assets/d2d030c2-d718-4b23-9018-4dc54a6395cf)
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
 
