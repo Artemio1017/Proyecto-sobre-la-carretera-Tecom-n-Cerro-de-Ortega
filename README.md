@@ -36,7 +36,6 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 
 
 ## Manejo de Datos
-![carre_tecoman_co](https://github.com/user-attachments/assets/d2d030c2-d718-4b23-9018-4dc54a6395cf)
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
 
@@ -84,6 +83,10 @@ else:
 #Imprimir resultados
 print(f"Costo total de reparación: ${costo_total_reparacion:.2f}")
 print(f"Presupuesto disponible: ${presupuesto_total:.2f}")
+
+Identificación del tramo de carretera
+![carre_tecoman_co](https://github.com/user-attachments/assets/f1298275-bb71-40b3-ba61-2559a76ff068)
+
 
 ## Conclusiones
 La carretera Cerro de Ortega - Tecomán desempeña un papel crucial en la conectividad y el desarrollo económico de la región, pero su deterioro actual representa un desafío significativo para la seguridad vial y la eficiencia del tránsito. Este proyecto tiene como meta abordar de manera integral los problemas detectados, como los baches, la falta de señalización adecuada y las deficiencias en el drenaje. A través de estrategias de planificación eficiente, el uso de materiales sostenibles y la participación activa de las comunidades afectadas, se busca no solo reparar la infraestructura existente, sino también sentar las bases para un desarrollo vial sostenible a largo plazo.
