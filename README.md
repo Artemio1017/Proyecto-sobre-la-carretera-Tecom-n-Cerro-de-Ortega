@@ -40,29 +40,8 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
 
 ## Resultados
-**CÓDIGOS USADOS**
-# PRIMER CÓDIGO
 
 
-# SEGUNDO CÓDIGO
-#Parámetros iniciales
-costo_reparacion_por_bache = 1164  #Costo de reparar un bache (en dólares)
-cantidad_baches = 100             #Cantidad total de baches en la carretera
-presupuesto_total = 20000        #Presupuesto disponible (en dólares)
-#Calcular el costo total de reparación
-costo_total_reparacion = cantidad_baches * costo_reparacion_por_bache
-#Comparar con el presupuesto disponible
-if costo_total_reparacion <= presupuesto_total:
-    sobrante = presupuesto_total - costo_total_reparacion
-    print("El presupuesto es suficiente para reparar todos los baches.")
-    print(f"Dinero sobrante después de las reparaciones: ${sobrante:.2f}")
-else:
-    print("El presupuesto no es suficiente para reparar todos los baches.")
-    baches_reparables = presupuesto_total // costo_reparacion_por_bache
-    print(f"Se pueden reparar aproximadamente {baches_reparables:.0f} baches con el presupuesto actual.")
-#Imprimir resultados
-print(f"Costo total de reparación: ${costo_total_reparacion:.2f}")
-print(f"Presupuesto disponible: ${presupuesto_total:.2f}")
 
 Identificación del tramo de carretera
 ![carre_tecoman_co](https://github.com/user-attachments/assets/f1298275-bb71-40b3-ba61-2559a76ff068)
