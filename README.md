@@ -41,11 +41,10 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 
 ## Resultados
 
-
-
 Identificación del tramo de carretera
 ![carre_tecoman_co](https://github.com/user-attachments/assets/f1298275-bb71-40b3-ba61-2559a76ff068)
 
+![image](https://github.com/user-attachments/assets/9e7912a8-8643-46bb-aade-ca712550d16b)
 
 ## Conclusiones
 La carretera Cerro de Ortega - Tecomán desempeña un papel crucial en la conectividad y el desarrollo económico de la región, pero su deterioro actual representa un desafío significativo para la seguridad vial y la eficiencia del tránsito. Este proyecto tiene como meta abordar de manera integral los problemas detectados, como los baches, la falta de señalización adecuada y las deficiencias en el drenaje. A través de estrategias de planificación eficiente, el uso de materiales sostenibles y la participación activa de las comunidades afectadas, se busca no solo reparar la infraestructura existente, sino también sentar las bases para un desarrollo vial sostenible a largo plazo.
