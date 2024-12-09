@@ -1,8 +1,8 @@
 # Gestión Geoespacial y Costos para Infraestructura Vial
 ## Objetivo
-El conteo de baches totales sobre esta carretera, el costeo de la reparación y la representación geoespacial mediante códigos de **Python** y **Google Colab**
+El conteo de baches totales sobre esta carretera, el costeo de la reparación y la representación geoespacial mediante códigos de **Python** en **Google Colab**
 
-**Autores:**
+**Autor:**
 Gómez Padilla Artemio Gabriel
 
 ## Introducción
