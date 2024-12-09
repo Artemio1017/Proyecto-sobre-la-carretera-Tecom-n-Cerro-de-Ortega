@@ -36,7 +36,17 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 **Funcionamiento de los códigos utilizados**
 
 **Primer Código**
+CÓDIGO PARA CALCULAR LA FUERZA DE LA CARRETERA Y PREVENIR BACHES.
+Este código utiliza la libreria **NUMPY** para poder hacer todos los cálculos necesarios. Este toma en cuanta 3 principios básicos para la resistencia de un material al recibir una fuerza. Esta es la resistencia en Pascales del material (asfalto=3e9), el grosor del material(0.15 m) y el límite de tensión(2.5e6). Partiendo desde estos 3 valores ya se podría hacer un cálculo, pero falta lo escencial, la carga que se le aplica, esta puede variar dependiendo de si se trata de un carro, una camioneta o un camión, pero mayormente son carros los que pasen así que se tomó en cuenta este para el cálculo (1000kg). Para que el código funcione correctamente se agregó un valor adicional que es el peso en metro cuadrados de la llanta sobre el asfalto, que es de (0.2).
+Los resultados son mostrados en pascales.
+Debo agregar que se pueden hacer modificaciones en los parámetros del cálculo dependiendo del material que se quiere estudiar, así que se puede "jugar" con eso.
 
+**Segundo código**
+CÓDIGO PARA EL CÁLCULO DE PRESUPUESTO
+Este código no es tan complejo como el anterior, en este no es necesario instalar ninguna libreria ya que solo utiliza las funciones básicas de multiplicación, división, suma y resta.
+Lo primero es ingresar los datos necesarios que es el costo de la reparación de los baches($1164), la cantidad de baches (100) y el presupuesto con el que se cuenta ($20000).
+Con esos datos primero multiploca el costo por bache por la cantidad de baches, para después hacer una comparación entre el costo total y el prsupuesto con el que se cuenta. Si el presupuesto es mayor al costo total, nos mostrará una resta entre estas, sino es así solo nos dirá que el presupuesto es insuficiente.
+También se puede jugar con los datos que se quieran introducir y el código funcionará perfectamente.
 
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
