@@ -32,8 +32,11 @@ Se implementarán reparaciones priorizando materiales sostenibles y técnicas de
 Se organizarán talleres y encuestas para incorporar las opiniones y expectativas de la población local, fortaleciendo la transparencia y aceptación del proyecto.
 5. Monitoreo y Evaluación:
 El avance será medido con indicadores clave como la reducción de accidentes, calidad de las reparaciones y satisfacción de los usuarios. Se usará el SIG para actualizar y visualizar el progreso.
+
 **Funcionamiento de los códigos utilizados**
-**PRIMER CÓDIGO**
+
+**Primer Código**
+
 
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
