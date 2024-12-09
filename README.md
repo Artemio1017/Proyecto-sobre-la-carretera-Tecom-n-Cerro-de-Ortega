@@ -1,6 +1,6 @@
-# Proyecto-sobre-la-carretera-Tecomán-Cerro-de-Ortega
+# Gestión Geoespacial y Costos para Infraestructura Vial
 El conteo de baches totales sobre esta carretera y el como esto afecta a toda la comunidad
-# Título del Proyecto
+
 **Autores:**
 Gómez Padilla Artemio Gabriel
 
