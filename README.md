@@ -42,6 +42,7 @@ Los resultados son mostrados en pascales.
 Debo agregar que se pueden hacer modificaciones en los parámetros del cálculo dependiendo del material que se quiere estudiar, así que se puede "jugar" con eso.
 
 **Resultado**
+
 ![image](https://github.com/user-attachments/assets/860dca4a-f886-4d48-849d-741553a832bb)
 
 **SEGUNDO CÓDIGO**
@@ -52,6 +53,7 @@ Con esos datos primero multiploca el costo por bache por la cantidad de baches, 
 También se puede jugar con los datos que se quieran introducir y el código funcionará perfectamente.
 
 **Resultado**
+
 ![image](https://github.com/user-attachments/assets/150a8fd2-8f76-4422-9981-5bf1c9095496)
 
 **TERCER CÓDIGO**
@@ -68,7 +70,9 @@ En el mismo código hace el cálculo total de la distancia entre la coordenada i
 Se pueden cambiar las coordenadas que yo ingresé por las que necesites y el código te lo representará.
 
 **Resultado**
+
 ![image](https://github.com/user-attachments/assets/63c3ec6d-0496-481a-ab7a-b3db4be72db4)
+
 ![image](https://github.com/user-attachments/assets/0d2b0899-d847-4b77-9e8e-5aeb888e483c)
 
 
