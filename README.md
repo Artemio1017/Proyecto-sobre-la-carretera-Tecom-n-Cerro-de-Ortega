@@ -35,20 +35,20 @@ El avance será medido con indicadores clave como la reducción de accidentes, c
 
 **Funcionamiento de los códigos utilizados**
 
-**Primer Código**
+**PRIMER CÓDIGO**
 CÓDIGO PARA CALCULAR LA FUERZA DE LA CARRETERA Y PREVENIR BACHES.
 Este código utiliza la libreria **NUMPY** para poder hacer todos los cálculos necesarios. Este toma en cuanta 3 principios básicos para la resistencia de un material al recibir una fuerza. Esta es la resistencia en Pascales del material (asfalto=3e9), el grosor del material(0.15 m) y el límite de tensión(2.5e6). Partiendo desde estos 3 valores ya se podría hacer un cálculo, pero falta lo escencial, la carga que se le aplica, esta puede variar dependiendo de si se trata de un carro, una camioneta o un camión, pero mayormente son carros los que pasen así que se tomó en cuenta este para el cálculo (1000kg). Para que el código funcione correctamente se agregó un valor adicional que es el peso en metro cuadrados de la llanta sobre el asfalto, que es de (0.2).
 Los resultados son mostrados en pascales.
 Debo agregar que se pueden hacer modificaciones en los parámetros del cálculo dependiendo del material que se quiere estudiar, así que se puede "jugar" con eso.
 
-**Segundo Código**
+**SEGUNDO CÓDIGO**
 CÓDIGO PARA EL CÁLCULO DE PRESUPUESTO.
 Este código no es tan complejo como el anterior, en este no es necesario instalar ninguna libreria ya que solo utiliza las funciones básicas de multiplicación, división, suma y resta.
 Lo primero es ingresar los datos necesarios que es el costo de la reparación de los baches($1164), la cantidad de baches (100) y el presupuesto con el que se cuenta ($20000).
 Con esos datos primero multiploca el costo por bache por la cantidad de baches, para después hacer una comparación entre el costo total y el prsupuesto con el que se cuenta. Si el presupuesto es mayor al costo total, nos mostrará una resta entre estas, sino es así solo nos dirá que el presupuesto es insuficiente.
 También se puede jugar con los datos que se quieran introducir y el código funcionará perfectamente.
 
-**Tercer Código**
+**TERCER CÓDIGO**
 CODIGO PARA MOSTRAR EN UN MAPA HTML LA CARRETERA Y DISTINTOS PUNTOS SOBRE ELLA.
 Este es el código más complejo de los 3 y el que más librerias necesita. En primer lugar es necesario ingresar el siguiente código: "pip install pandas folium geopy openpyxl" ya que este nos instala las librerias necesarias para después importarlas al código, tales como **FOLIUM** y **PANDAS** por ejemplo.
 Al ya tener estas librerias instaladas es necesario ingresar las coordenadas de los distintos puntos de la carretera, camino o cualquier lugar que querramos mostrar, esto en formato **LATITUD** y **LONGITUD** tales como las mías:
@@ -56,6 +56,12 @@ Al ya tener estas librerias instaladas es necesario ingresar las coordenadas de 
  **latitud: [18.940366,18.941291,18.943720,18.943696,18.938971,18.934044,18.932349,18.925118,18.909256,18.897659]**
    
  **longitud: [-103.894279,-103.891595,-103.888927,-103.883153,-103.875472,-103.867526,-103.860385,-103.854995,-103.854167,-103.859358]**
+
+Ahora en base a estas coordenadas, se pueden representar en un mapa HTML, al crearse nos manda a otra pa´gina donde se encuentra representada por puntos de identificación, el tramo de la carretera.
+En el mismo código hace el cálculo total de la distancia entre la coordenada inicial y la final representada en Km.
+
+Se pueden cambiar las coordenadas que yo ingresé por las que necesites y el código te lo representará.
+
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
