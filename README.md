@@ -41,13 +41,19 @@ Este código utiliza la libreria **NUMPY** para poder hacer todos los cálculos 
 Los resultados son mostrados en pascales.
 Debo agregar que se pueden hacer modificaciones en los parámetros del cálculo dependiendo del material que se quiere estudiar, así que se puede "jugar" con eso.
 
-**Segundo código**
-CÓDIGO PARA EL CÁLCULO DE PRESUPUESTO
+**Segundo Código**
+CÓDIGO PARA EL CÁLCULO DE PRESUPUESTO.
 Este código no es tan complejo como el anterior, en este no es necesario instalar ninguna libreria ya que solo utiliza las funciones básicas de multiplicación, división, suma y resta.
 Lo primero es ingresar los datos necesarios que es el costo de la reparación de los baches($1164), la cantidad de baches (100) y el presupuesto con el que se cuenta ($20000).
 Con esos datos primero multiploca el costo por bache por la cantidad de baches, para después hacer una comparación entre el costo total y el prsupuesto con el que se cuenta. Si el presupuesto es mayor al costo total, nos mostrará una resta entre estas, sino es así solo nos dirá que el presupuesto es insuficiente.
 También se puede jugar con los datos que se quieran introducir y el código funcionará perfectamente.
 
+**Tercer Código**
+CODIGO PARA MOSTRAR EN UN MAPA HTML LA CARRETERA Y DISTINTOS PUNTOS SOBRE ELLA.
+Este es el código más complejo de los 3 y el que más librerias necesita. En primer lugar es necesario ingresar el siguiente código: "pip install pandas folium geopy openpyxl" ya que este nos instala las librerias necesarias para después importarlas al código, tales como **FOLIUM** y **PANDAS** por ejemplo.
+Al ya tener estas librerias instaladas es necesario ingresar las coordenadas de los distintos puntos de la carretera, camino o cualquier lugar que querramos mostrar, esto en formato **LATITUD** y **LONGITUD** tales como las mías:
+ **"latitud": [18.940366,18.941291,18.943720,18.943696,18.938971,18.934044,18.932349,18.925118,18.909256,18.897659],
+    "longitud": [-103.894279,-103.891595,-103.888927,-103.883153,-103.875472,-103.867526,-103.860385,-103.854995,-103.854167,-103.859358]**
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
