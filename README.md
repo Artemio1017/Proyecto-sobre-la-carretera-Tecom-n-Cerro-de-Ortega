@@ -41,12 +41,18 @@ Este código utiliza la libreria **NUMPY** para poder hacer todos los cálculos 
 Los resultados son mostrados en pascales.
 Debo agregar que se pueden hacer modificaciones en los parámetros del cálculo dependiendo del material que se quiere estudiar, así que se puede "jugar" con eso.
 
+**Resultado**
+![image](https://github.com/user-attachments/assets/860dca4a-f886-4d48-849d-741553a832bb)
+
 **SEGUNDO CÓDIGO**
 CÓDIGO PARA EL CÁLCULO DE PRESUPUESTO.
 Este código no es tan complejo como el anterior, en este no es necesario instalar ninguna libreria ya que solo utiliza las funciones básicas de multiplicación, división, suma y resta.
 Lo primero es ingresar los datos necesarios que es el costo de la reparación de los baches($1164), la cantidad de baches (100) y el presupuesto con el que se cuenta ($20000).
 Con esos datos primero multiploca el costo por bache por la cantidad de baches, para después hacer una comparación entre el costo total y el prsupuesto con el que se cuenta. Si el presupuesto es mayor al costo total, nos mostrará una resta entre estas, sino es así solo nos dirá que el presupuesto es insuficiente.
 También se puede jugar con los datos que se quieran introducir y el código funcionará perfectamente.
+
+**Resultado**
+![image](https://github.com/user-attachments/assets/150a8fd2-8f76-4422-9981-5bf1c9095496)
 
 **TERCER CÓDIGO**
 CODIGO PARA MOSTRAR EN UN MAPA HTML LA CARRETERA Y DISTINTOS PUNTOS SOBRE ELLA.
@@ -59,19 +65,21 @@ Al ya tener estas librerias instaladas es necesario ingresar las coordenadas de 
 
 Ahora en base a estas coordenadas, se pueden representar en un mapa HTML, al crearse nos manda a otra pa´gina donde se encuentra representada por puntos de identificación, el tramo de la carretera.
 En el mismo código hace el cálculo total de la distancia entre la coordenada inicial y la final representada en Km.
-
 Se pueden cambiar las coordenadas que yo ingresé por las que necesites y el código te lo representará.
+
+**Resultado**
+![image](https://github.com/user-attachments/assets/63c3ec6d-0496-481a-ab7a-b3db4be72db4)
+![image](https://github.com/user-attachments/assets/0d2b0899-d847-4b77-9e8e-5aeb888e483c)
+
 
 ## Manejo de Datos
 ![image](https://github.com/user-attachments/assets/46f1f3dc-a5c6-491b-9e1a-b486cc9f0dd6)
 ![image](https://github.com/user-attachments/assets/da302f57-9857-4417-afe9-e9d67f101a5d)
 
-## Resultados
 
-Identificación del tramo de carretera
+## Identificación del tramo de carretera en ArcGIS
 ![carre_tecoman_co](https://github.com/user-attachments/assets/f1298275-bb71-40b3-ba61-2559a76ff068)
 
-![image](https://github.com/user-attachments/assets/9e7912a8-8643-46bb-aade-ca712550d16b)
 
 ## Conclusiones
 La carretera Cerro de Ortega - Tecomán desempeña un papel crucial en la conectividad y el desarrollo económico de la región, pero su deterioro actual representa un desafío significativo para la seguridad vial y la eficiencia del tránsito. Este proyecto tiene como meta abordar de manera integral los problemas detectados, como los baches, la falta de señalización adecuada y las deficiencias en el drenaje. A través de estrategias de planificación eficiente, el uso de materiales sostenibles y la participación activa de las comunidades afectadas, se busca no solo reparar la infraestructura existente, sino también sentar las bases para un desarrollo vial sostenible a largo plazo.
